@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('/fonts/Arial.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Courier New';
+    src: url('/fonts/CourierNew.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Georgia';
+    src: url('/fonts/Georgia.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Impact';
+    src: url('/fonts/Impact.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Lucida Console';
+    src: url('/fonts/LucidaConsole.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Tahoma';
+    src: url('/fonts/Tahoma.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Times New Roman';
+    src: url('/fonts/TimesNewRoman.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Verdana';
+    src: url('/fonts/Verdana.ttf') format('truetype');
+  }
+  
